@@ -1,14 +1,14 @@
 layout_spectrum: 0.9723572
+typography_spectrum: 0.5575147
 color:
   saturation: 0.5830763
   lightness: 0.5828757
   brandStrength: 0.2154575
-  brandColors:
-    - '#FFFFFF'
-    - '#30304B'
-    - '#C74BFF'
-    - '#794A97'
-    - '#F3CEA3'
   rhythmicContrast: 0.3669739
-typography_spectrum: 0.5575147
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Matthowell
